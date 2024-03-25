@@ -16,3 +16,5 @@
 ![picture tag is used to adjust the element with screen size basically as responsive](HTML/static/img/image5.png)
 #####  <pre> ' map name' tag is used to link addres on clicking particular section on image, function can be used onclick
 https://www.image-map.net/
+##### e. Tables in html 
+![property which highlights the even rows](HTML/static/img/image6.png)
