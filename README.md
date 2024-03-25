@@ -11,3 +11,5 @@
 #### ![abbr tag usage](./HTML/static/img/image.png)
 #### ![bdo tag that turns the words to read left to right](./HTML/static/img/image2.png)
 #### ![address tag](HTML/static/img/image3.png)
+##### e. <pre> 'a' tag is used to link the static page address 
+![same page scrolling or pointing](HTML/static/img/image4.png)
