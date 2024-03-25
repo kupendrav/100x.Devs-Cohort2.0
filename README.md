@@ -6,4 +6,8 @@
 ##### a. attributes in html-All HTML elements can have attributes</br>
 ##### b. Attributes provide additional information about elements
 ##### c. mdn reference(read DOCUMENT)
-##### d.<pre>"pre" tag to be used for as extract the input as it is 
+##### <pre>"pre" tag to be used for as extract the input as it is 
+##### d. A screen reader is a software application that converts digital text into audio or tactile form.
+#### ![abbr tag usage](./HTML/static/img/image.png)
+#### ![bdo tag that turns the words to read left to right](./HTML/static/img/image2.png)
+#### ![address tag](HTML/static/img/image3.png)
