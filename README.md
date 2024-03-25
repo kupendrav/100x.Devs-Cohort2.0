@@ -13,3 +13,4 @@
 #### ![address tag](HTML/static/img/image3.png)
 ##### e. <pre> 'a' tag is used to link the static page address 
 ![same page scrolling or pointing](HTML/static/img/image4.png)
+![picture tag is used to adjust the element with screen size basically as responsive](HTML/static/img/image5.png)
