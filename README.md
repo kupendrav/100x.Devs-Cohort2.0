@@ -18,3 +18,4 @@
 https://www.image-map.net/
 ##### e. Tables in html 
 ![property which highlights the even rows](HTML/static/img/image6.png)
+##### ![meta tag usage/ meta 'view port' is used mainly for the mobile screens for responsive](HTML/static/img/image7.png)
