@@ -20,4 +20,7 @@ https://www.image-map.net/
 ![property which highlights the even rows](HTML/static/img/image6.png)
 ##### ![meta tag usage/ meta 'view port' is used mainly for the mobile screens for responsive](HTML/static/img/image7.png)
 ##### ![base tag usage in head tag](HTML/static/img/image8.png)
-##### f. Semantic tags"header,nav,section,article,aside,footer,summary,details"
+##### f. Semantic tags "header,nav,section,article,aside,footer,summary,details"<br>
+##### A semantic element clearly describes its meaning to both the browser and the developer.
+Examples of non-semantic elements: div> and span> - Tells nothing about its content.
+Examples of semantic elements: form>, table>, and article> - Clearly defines its content
