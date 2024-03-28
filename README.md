@@ -24,3 +24,5 @@ https://www.image-map.net/
 ##### A semantic element clearly describes its meaning to both the browser and the developer.
 Examples of non-semantic elements: div> and span> - Tells nothing about its content.
 Examples of semantic elements: form>, table>, and article> - Clearly defines its content
+## CSS(TAILWIND): as a developers we should analize an website and divide it into rows to make it simpler , lets see down a example
+![eraser.io made a wire frame work](diagram-export-3-28-2024-4_48_52-PM.png)
