@@ -24,6 +24,7 @@ https://www.image-map.net/
 ##### A semantic element clearly describes its meaning to both the browser and the developer.
 Examples of non-semantic elements: div> and span> - Tells nothing about its content.
 Examples of semantic elements: form>, table>, and article> - Clearly defines its content
-## CSS(TAILWIND): as a developers we should analize an website and divide it into rows to make it simpler , lets see down a example
-![eraser.io simple wire frame work](CSS(tailwind)/static/img/image9.png)
-![tailwind play a small idea tht how a grid sysytem and col/row works](CSS(tailwind)/static/img/image10.png)
+## CSS(TAILWIND) NOTES:
+##### a. as a developers we should analize an website and divide it into rows to make it simpler , lets see down a example.
+### ![eraser.io simple wire frame work](CSS(tailwind)/static/img/image9.png)
+## ![tailwind play a small idea tht how a grid sysytem and col/row works](CSS(tailwind)/static/img/image10.png)
