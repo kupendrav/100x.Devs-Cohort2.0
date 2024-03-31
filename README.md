@@ -27,4 +27,4 @@ Examples of semantic elements: form>, table>, and article> - Clearly defines its
 ## CSS(TAILWIND) NOTES:
 ##### a. as a developers we should analize an website and divide it into rows to make it simpler , lets see down a example.
 ### ![eraser.io simple wire frame work](CSS(tailwind)/static/img/image9.png)
-## ![tailwind play a small idea tht how a grid sysytem and col/row works](CSS(tailwind)/static/img/image10.png)
+## ![tailwind play a small idea tht how a grid sysytem and col/row works](CSS(tailwind)/static/img/image10.png
