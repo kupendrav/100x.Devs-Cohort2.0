@@ -7,3 +7,8 @@ console.log(hundreds.toLocaleString('en-IN'));  // 10,00,00,000
 
 //  properties are that we directly acces by . notation
 //  methods are that we call by () notation
+
+// MATHS ---------------------->
+console.log(Math.floor(3.9)); // 3
+console.log(Math.ceil(3.1)); // 4
+console.log(Math.round(3.5)); // 4
