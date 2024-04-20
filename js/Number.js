@@ -15,4 +15,7 @@ console.log(Math.round(3.5)); // 4
 
 console.log(Math.random()); // 0.0 to 0.9999999999999999 (not inclusive)
 let randomNumber = Math.floor(Math.random() * 10) + 1; // 1 to 10
-console.log(Math/floor(Math.random() * (max - min + 1)) + min);
+
+const max = 10;
+const min = 1;
+console.log(Math.floor(Math.random() * (max - min + 1)) + min);
