@@ -10,10 +10,11 @@ console.log(myDate.toTimeString());
 let myCreateDate = new Date(2024,0,29)
 console.log(myCreateDate.toDateString());
 
-
-newdate.toLocalString('default',{
+// creating a date and displaying it in a specific format
+let newDate = new Date();
+console.log(newDate.toLocaleString('default', {
   weekday: 'long',
-})
+}));
 
 // 1. Date.now() - gives the current date in milliseconds
 // 2. new Date() - gives the current date and time
