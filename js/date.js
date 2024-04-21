@@ -9,3 +9,36 @@ console.log(myDate.toTimeString());
 // creating new date
 let myCreateDate = new Date(2024,0,29)
 console.log(myCreateDate.toDateString());
+
+
+newdate.toLocalString('default',{
+  weekday: 'long',
+})
+
+// 1. Date.now() - gives the current date in milliseconds
+// 2. new Date() - gives the current date and time
+
+// geting day of the week
+let today=new Date().getDay();
+switch (today){
+  case 0:
+    console.log("Sunday");
+    break;
+  case 1:
+    console.log("Monday");
+    break;
+  case 2:
+    console.log("Tuesday");
+    break;
+  case 3:
+    console.log("Wednesday");
+    break;
+  case 4:
+    console.log("Thursday");
+    break;
+  case 5:
+    console.log("Friday");
+    break;
+  default:
+    console.log("Weekend");
+}
