@@ -16,3 +16,10 @@ console.log(Array.from('kupendra'))
 
 console.log(Array.from({name: "kupendra"}))
   
+// of method is used to create a new Array instance from a variable number of arguments, regardless of number or type of the arguments.
+
+let n1 = 100
+let n2 = 200
+let n3 = 300
+
+console.log(Array.of(n1,n2,n3))
