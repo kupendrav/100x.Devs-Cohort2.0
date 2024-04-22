@@ -13,4 +13,11 @@ console.log(myArr[0]);
 // 2. pop() - removes the last element from an array and returns that element
 
 myArr.unshift(0); // add at the beginning of the array
-console.log('Unshift: ', myArr);
+
+console.log(myArr.includes(0)); // checks if there is a zero in the array
+console.log( myArr);
+
+// slice - returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included) where begin and end represent the index of items in that array. The original array will not be modified.
+
+
+// splice - changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
