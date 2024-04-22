@@ -79,4 +79,17 @@ const product = {
 }
 
 const {nameOfTheProduct : name} = product;
-console.log(name);``
+console.log(name);
+
+// *********** part-4 ***********
+
+// API - Application Programming Interface
+// earlier api was in xml file later on and now JSON File is used for data interchange between server and client
+
+// JSON - JavaScript Object Notation
+// api is normally an object which is used to communicate between server and client
+
+/**
+ * https://randomuser.me/ - website for random api
+ * https://jsoneditoronline.org/#left=local.dihoki&right=local.ripiqe - website for json editor
+ */
