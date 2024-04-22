@@ -21,3 +21,10 @@ console.log( myArr);
 
 
 // splice - changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
+
+const animals = ['ant', 'bison', 'camel', 'duck', 'elephant'];
+console.log(animals.slice (2, 4)); // camel, duck
+// syntax - array.splice(start, end)
+
+console.log(animals.splice(2, 2)); // camel, duck
+// syntax  splice(start,deletecount,item1,item2)
