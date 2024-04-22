@@ -13,3 +13,6 @@ console.log(flatArray); // flat method is used to flatten the array to the speci
 
 console.log(Array.from('kupendra'))
 // from method is used to create a new shallow-copied Array instance from an array-like or iterable object. It makes it easy to convert other data structures like strings and objects into arrays.
+
+console.log(Array.from({name: "kupendra"}))
+  
