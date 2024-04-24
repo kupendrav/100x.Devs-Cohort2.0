@@ -49,3 +49,6 @@ for (const index in myArray) {
   console.log(myArray[index]);
   
 }
+/**
+ * map is non iterable object so we can not use for in loop on map
+ */
