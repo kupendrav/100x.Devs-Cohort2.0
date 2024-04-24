@@ -58,3 +58,16 @@ for (let index = 0; index < myArray.length; index++) {
   console.log(element);
 }
 // as we know that array index start from 0 
+
+
+// break and continue in loop
+
+for (let f = 1; f < 25; f++) {
+
+  if (f == 7){
+    console.log(`detected 7 breaking the loop `);
+    break
+  }
+  console.log(`value of f is ${f}`);
+  
+}
