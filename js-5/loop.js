@@ -71,3 +71,12 @@ for (let f = 1; f < 25; f++) {
   console.log(`value of f is ${f}`);
   
 }
+for (let f = 1; f < 25; f++) {
+
+  if (f == 7){
+    console.log(`detected 7 continuing the loop `);
+    continue
+  }
+  console.log(`value of f is ${f}`);
+  
+}
