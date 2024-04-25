@@ -28,4 +28,9 @@ Examples of semantic elements: form>, table>, and article> - Clearly defines its
 ##### a. as a developers we should analize an website and divide it into rows to make it simpler , lets see down a example.
 ### ![eraser.io simple wire frame work](CSS/static/img/image9.png)
 # ![tailwind play a small idea tht how a grid sysytem and col/row works](CSS/static/img/image10.png)
+
+### ![eraser.io simple wire frame work](CSS(tailwind)/static/img/image9.png)
+
+# ![tailwind play a small idea tht how a grid sysytem and col/row works](CSS(tailwind)/static/img/image10.png)
+
 #### b. above code is an example using tailwind play to demonstrate how the rows play the crucial role in understanding any website design and divide thm into rows / blocks
