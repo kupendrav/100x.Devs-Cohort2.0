@@ -6,15 +6,26 @@
   <title>Dom learning</title>
 </head>
 <body>
-  <div class="bg-black"> 
-      <h1 id="title" class="]heading">DOM learning on Chai our code</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati excepturi labore asperiores molestias ratione quam!</p>
+ 
+  <div class="pari">
+  <div class="halwa">monday</div>
+  <div class="halwa">tuesday</div>
+  <div class="halwa">wednesday</div>
+  <div class="halwa">thursday</div>
+  <div class="halwa">friday</div>
   </div>
-  <ul>
-  <li>man kind</li>
-  <li>man kind</li>
-  <li>man kind</li>
-  <li>man kind</li>
-</ul>
+<script>
+  const sel = document.querySelector('.pari')
+  // console.log(sel.children[0].innerHTML)
+
+  for (let i = 0; i < sel.children.length ; i++) {
+    // console.log(sel.children[i].innerHTML);
+  }
+  sel.children[1].style.color = 'blue'
+  const eleOne = document.querySelector('.halwa')
+  console.log(eleOne);
+  console.log(eleOne.parentElement);
+  console.log(eleOne.nextElementSibling);
+</script>
 </body>
 </html>
