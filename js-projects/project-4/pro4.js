@@ -9,9 +9,13 @@ const randomColor = ()=>{
     return color;
 }
 
-const startChangeColor = ()=>{}
-const stopChangeColor = ()=>{}
-document.getElementById('#start').addEventListener
-('click',startChangeColor)
-document.getElementById('#stop').addEventListener
-('click',stopChangeColor)
+const startChangeColor = ()=>{
+    document.body.style.backgroundColor = randomColor();
+    setInterval(startChangeColor, 1000);
+
+}
+const stopChangeColor = ()=>{
+    clearInterval(startChangeColor);
+}
+document.querySelector('#start').addEventListener('click',startChangeColor)
+document.getElementById('#stop').addEventListener('click',stopChangeColor)
