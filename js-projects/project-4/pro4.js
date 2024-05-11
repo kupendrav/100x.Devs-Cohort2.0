@@ -7,15 +7,18 @@ const randomColor = ()=>{
         color += hex[Math.floor(Math.random()*16)];
     }
     return color;
-}
-
+};
+let intervalId;
 const startChangeColor = ()=>{
-    document.body.style.backgroundColor = randomColor();
-    setInterval(startChangeColor, 1000);
+    const changeColor = ()=>{
+        document.body.style.backgroundColor = randomColor();
+    };
+    intervalId = setInterval(changeColor, 1000);
 
-}
+
+};
 const stopChangeColor = ()=>{
-    clearInterval(startChangeColor);
-}
+    clearInterval(intervalId);
+};
 document.querySelector('#start').addEventListener('click',startChangeColor)
-document.getElementById('#stop').addEventListener('click',stopChangeColor)
+document.querySelector('#stop').addEventListener('click',stopChangeColor)
