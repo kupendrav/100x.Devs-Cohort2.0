@@ -6,6 +6,9 @@
     <title>API</title>
 </head>
 <body>
+   <div class="card">
+
+   </div>
     
 </body>
 <script>
@@ -17,7 +20,7 @@
         if (me.readyState === 4) {
             const data = JSON.parse(this.responseText)
             console.log(typeof data);
-            console.log(data.location);
+           document.querySelector('.card').innerHTML = data.avatar_url;
             
         }
     }
