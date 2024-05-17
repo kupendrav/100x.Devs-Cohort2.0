@@ -35,4 +35,4 @@ Examples of semantic elements: form>, table>, and article> - Clearly defines its
 
 #### b. above code is an example using tailwind play to demonstrate how the rows play the crucial role in understanding any website design and divide thm into rows / blocks
 ## JS-🍵
-![alt text](<js-pro-intr/Screenshot (2).png>)
+![alt text](<js-pro-intr/Screenshot (2).png>)![alt text](js-pro-intr/image.png)
