@@ -20,3 +20,18 @@ Array.prototype.hellokupendra = function(){
 // sweetTase.kupendra()
 mySweets.kupendra()
 mySweets.hellokupendra()
+
+
+/**++++++++++++++ inheritance  ++++++++++++++*/
+
+let anotheName ="chai our bhai    "
+
+// console.log(anotheName.length);
+
+String.prototype.trueLength = function(){
+    console.log(`${this}`);
+    console.log(`true length is: ${this.trim().length}`);
+}
+
+anotheName.trueLength()
+"good                   ".trueLength()
