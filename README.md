@@ -29,13 +29,14 @@ Examples of semantic elements: form>, table>, and article> - Clearly defines its
 ### ![eraser.io simple wire frame work](CSS/static/img/image9.png)
 # ![tailwind play a small idea tht how a grid sysytem and col/row works](CSS/static/img/image10.png)
 
-### ![eraser.io simple wire frame work](CSS/static/img/image9.png)
-
-# ![tailwind play a small idea tht how a grid sysytem and col/row works](CSS/static/img/image10.png)
 
 #### b. above code is an example using tailwind play to demonstrate how the rows play the crucial role in understanding any website design and divide thm into rows / blocks
 ## JS-🍵
 ![alt text](<js-pro-intr/Screenshot (2).png>)![alt text](js-pro-intr/image.png)
+<<<<<<< HEAD
 https://developer.mozilla.org/en-US/docs/Web/API/fetch![alt text](<js-pro-intr/image copy.png>)![alt text](<js-pro-intr/image copy 2.png>)![alt text](js-classes-oop/image.png)
 
 ### importance of new keyword..& arrays ,functions , strings are objects.
+=======
+https://developer.mozilla.org/en-US/docs/Web/API/fetch![alt text](<js-pro-intr/image copy.png>)![alt text](<js-pro-intr/image copy 2.png>)
+>>>>>>> 2daa9b118edded740ce27cacbe3b756ab48a870e
