@@ -38,4 +38,4 @@ Examples of semantic elements: form>, table>, and article> - Clearly defines its
 ![alt text](<js-pro-intr/Screenshot (2).png>)![alt text](js-pro-intr/image.png)
 https://developer.mozilla.org/en-US/docs/Web/API/fetch![alt text](<js-pro-intr/image copy.png>)![alt text](<js-pro-intr/image copy 2.png>)![alt text](js-classes-oop/image.png)
 
-### importance of new keyword..& arrays ,functions , strings are objects
+### importance of new keyword..& arrays ,functions , strings are objects.
