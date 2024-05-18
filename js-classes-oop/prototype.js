@@ -14,4 +14,9 @@ Object.prototype.kupendra = function () {
    } else {console.log(`kupendra is present`);}
 
 }
-sweetTase.kupendra()
+Array.prototype.hellokupendra = function(){
+    console.log(`kupendra says hello`);
+}
+// sweetTase.kupendra()
+mySweets.kupendra()
+mySweets.hellokupendra()
