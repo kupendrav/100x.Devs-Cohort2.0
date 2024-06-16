@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API</title>
+</head>
+<body>
+   <div class="card">
+
+   </div>
+    
+</body>
+<script>
+    requestUrl = 'https://api.github.com/users/kupendrav';
+    const me = new XMLHttpRequest();
+    me.open('GET',requestUrl)
+    me.onreadystatechange = function (){
+        console.log(me.readyState);
+        if (me.readyState === 4) {
+            const data = JSON.parse(this.responseText)
+            console.log(typeof data);
+           document.querySelector('.card').innerHTML = data.avatar_url;
+            
+        }
+    }
+    me.send(); //callback for open
+</script>
+</html>
