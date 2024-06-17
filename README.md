@@ -39,4 +39,4 @@ https://developer.mozilla.org/en-US/docs/Web/API/fetch![alt text](<js-pro-intr/i
 ### importance of new keyword..& arrays ,functions , strings are objects.
 =======
 https://developer.mozilla.org/en-US/docs/Web/API/fetch![alt text](<js-pro-intr/image copy.png>)![alt text](<js-pro-intr/image copy 2.png>)
->>>>>>> 2daa9b118edded740ce27cacbe3b756ab48a870e
+
