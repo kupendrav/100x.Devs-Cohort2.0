@@ -14,3 +14,16 @@ console.table([accountId,accountEmail,accountPassword,accountCity]);
  * 5.undefined
  * 6.symbol
  */
+
+/** conversion of data types */
+
+let x = "10abc";
+console.log(typeof x);
+
+let valueInNumber =  Number(x);
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
+console.log(+true);
+console.log(+"");
+
