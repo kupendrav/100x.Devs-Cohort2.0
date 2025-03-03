@@ -53,3 +53,6 @@ console.log(null > 0);
  */
 const score = 100;
 const scoreValue = 100.3;
+
+//  +++++++++++++++++ stack and heap ++++++++++++++++++++++++
+ 
